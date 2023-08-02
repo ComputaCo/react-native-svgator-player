@@ -1,0 +1,29 @@
+{
+  "name": "react-native-svgator-player",
+  "version": "1.0.0",
+  "description": "Provide React Native bindings to SVGator exported animations",
+  "main": "src/index.js",
+  "scripts": {
+    "ts:check": "tsc",
+    "build": "tsc --declaration --outDir dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobFV/react-native-svgator-player.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Jacob Valdez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JacobFV/react-native-svgator-player/issues"
+  },
+  "homepage": "https://github.com/JacobFV/react-native-svgator-player#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-native-webview": "^13.3.1"
+  }
+}
