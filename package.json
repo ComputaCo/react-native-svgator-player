@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/JacobFV/react-native-svgator-player#readme",
   "dependencies": {
+    "prop-types": "^15.8.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-native-webview": "^13.3.1"
